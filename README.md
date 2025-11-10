@@ -15,7 +15,9 @@ Feel free to reach out or explore my projects — I’m always open to collabora
 <h3>🌱I’m currently learning **</h3>
 - Exploring modern frontend frameworks like React, Next.js, and Vue.js <br>- Deepening my backend skills with Spring Boot and microservices architecture <br>- Getting hands-on with Kafka stream processing and event-driven systems <br> - Taking courses on DevOps, Kubernetes, and cloud-native development <br>- Sharpening my understanding of system design and scalable infrastructure**
 
-- 👨‍💻 All of my projects are available at [https://codolio.com/profile/kunal%20kumar](https://codolio.com/profile/kunal%20kumar)
+<!-- 
+- 👨‍💻 All of my projects are available at [https://codolio.com/profile/kunal%20kumar](https://codolio.com/profile/kunal%20kumar) 
+-->
 
 <h3>🌱 Currently Exploring</h3> - Kubernetes for orchestration <br>
 - Cloud-native development (AWS/GCP) <br>
