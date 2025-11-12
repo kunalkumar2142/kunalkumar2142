@@ -24,7 +24,7 @@ Feel free to reach out or explore my projects — I’m always open to collabora
 - Advanced Kafka stream processing <br>
 
 <h3>⚡ Fun fact **</h3>
-- I write code like I make coffee: strong, smooth, and sometimes dangerously over-engineered ☕💻 <br>- I believe every bug is just a misunderstood feature waiting for love ❤️🐞 <br>- I think semicolons are optional, but good vibes are mandatory 😎.
+- I believe every bug is just a misunderstood feature waiting for love ❤️🐞 <br>- I think semicolons are optional, but good vibes are mandatory 😎.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
