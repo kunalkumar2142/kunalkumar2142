@@ -3,7 +3,7 @@
 
 <h2>🚀 What I Do -</h2>
 <h3> 🧱 Architect and develop microservices using Spring Boot <br> 🐳 Containerize applications with Docker for smooth deployment <br> 🔄 Build event-driven systems powered by Apache Kafka <br> 🌐 Create responsive UIs with React, TypeScript, and modern web tools <br> 
-  <--🧪 Write clean, testable code and implement CI/CD pipelines--></h3>
+  /*🧪 Write clean, testable code and implement CI/CD pipelines*/</h3>
 
 
 
