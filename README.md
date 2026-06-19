@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:4002kunal88@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/java-developer-kunal-kumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/kunalk2142"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://leetcode.com/kunalk2142"><a href="https://x.com/Kunal0279774292"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 <p align="center">
