@@ -24,8 +24,7 @@ I'm a full stack developer who enjoys building scalable, well-structured systems
 
 ### 🚀 Projects
 
-- **[rate-limit](https://github.com/kunalkumar2142/rate-limit)** — Know how to implement api rate limiting in a scaled service. Using [Bucket4J](https://github.com/bucket4j/bucket4j) library to implement it and use [Redis](https://redis.io/) as a distributed cache.      **[Under Process..](https://github.com/kunalkumar2142/rate-limit)🙋**
-
+- **[rate-limit](https://github.com/kunalkumar2142/rate-limit)** — A Spring Boot service implementing per-user API rate limiting using the token bucket algorithm ([Bucket4J](https://github.com/bucket4j/bucket4j)), backed by [Redis](https://redis.io/) (Redisson) for distributed bucket state, with user-specific limits stored in MySQL.
 - **[Shopre](https://github.com/kunalkumar2142/Shopre)** — Microservices e-commerce platform with Spring Cloud, Docker & JWT auth.
 - **[doMess](https://github.com/kunalkumar2142/doMess)** — Real-time messaging app built with Spring Boot & WebSocket.
 
