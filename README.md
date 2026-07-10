@@ -18,7 +18,7 @@
 
 ### 🙋 About Me
 
-I'm a full stack developer who enjoys building scalable, well-structured systems end to end — from RESTful APIs and microservices on the backend to responsive, component-driven UIs on the frontend. Most of my backend work centers around Java and the Spring ecosystem, paired with React on the frontend, and I have a growing interest in distributed systems and cloud-native design.
+I'm a Backend developer who enjoys building scalable, well-structured systems end to end — from RESTful APIs and microservices on the backend to responsive, component-driven UIs on the frontend. Most of my backend work centers around Java and the Spring ecosystem, paired with React on the frontend, and I have a growing interest in distributed systems and cloud-native design.
 
 ---
 
