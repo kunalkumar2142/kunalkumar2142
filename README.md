@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kunal Kumar 👋</h1>
 
 <p align="center">
-  Full Stack Developer | Java • Spring Boot • React • Microservices
+  Backend Developer | Java • Spring Boot • React • Microservices
 </p>
 
 <p align="center">
